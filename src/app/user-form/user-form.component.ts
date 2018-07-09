@@ -24,7 +24,7 @@ export class UserFormComponent implements OnInit {
     required: "Required!",
     nameL: "Name must be at least 3 characters long!",
     surnameL: "Last name may not exceed 50 characters!",
-    email: "Please enter a valid email address!";
+    email: "Please enter a valid email address!",
     phone: "Phone number should be in following format: +99(99)9999-9999)",
     userEx: "This user already exists!",
     matchPasswords:"Passwords don't match!",
